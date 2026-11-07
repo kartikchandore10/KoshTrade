@@ -1,8 +1,8 @@
-// import React from 'react';
-// function Team() {
-//     return ( 
-//         <h1>Team</h1>
-//      );
-// }
+import React from 'react';
+function Team() {
+    return ( 
+        <h1>Team</h1>
+     );
+}
 
-// export default Team;
+export default Team;
