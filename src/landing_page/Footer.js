@@ -6,7 +6,7 @@ function Footer() {
             <div className='container border-top mt-5' >
                 <div className='row mt-5'>
                     <div className='col'>
-                        <img src='media/logo.jpeg' style={{ width : "50%"}}/>
+                        <img src='media/KoshTrade2.png' style={{ width : "50%"}}/>
                         <p>&copy; KoshTrade Broking Ltd. All rights reserved.</p>
                     </div>
                     <div className='col' >

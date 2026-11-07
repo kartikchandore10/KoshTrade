@@ -9,7 +9,7 @@ function NavBar() {
       <div class="container-fluid p-2">
         <Link class="navbar-brand" to='/'>
 
-          <img src="media/logo.jpeg" style={{ width: "25%" }} alt="Logo" />
+          <img src="media/KoshTrade2.png" style={{ width: "20%" }} alt="Logo" />
         </Link>
         <button
           class="navbar-toggler"
